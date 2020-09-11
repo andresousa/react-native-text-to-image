@@ -14,6 +14,6 @@
 import TextToImage from 'react-native-text-to-image';
 
 TextToImage.convert(text, fontName, fontSize, color, destinationUri => {
-    // use converted video here.
+    // use image uri here.
 });
 ```
